@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oscarTinkerer37
 - 👀 I’m interested in Python programming applied to engineering
 - 🌱 I’m currently learning data analysis and visualization with Python
-#- 💞️ I’m looking to collaborate on data analyis projects related to aero engineering 
+#- 💞️ I’m looking to collaborate on data analysis projects related to aero engineering 
 #- 📫 How to reach me ... #Through github
 
 <!---
